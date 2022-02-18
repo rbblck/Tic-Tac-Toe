@@ -1,2 +1,2 @@
 # Python-Tic-Tac-Toe
-# Tic-Tac-Toe-C-
+# Tic Tac Toe C++
