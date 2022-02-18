@@ -1,2 +1,2 @@
-# Python-Tic-Tac-Toe
+# C++ Tic-Tac-Toe Command Line
 # Tic Tac Toe C++
